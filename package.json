@@ -80,7 +80,7 @@
         "@diia-inhouse/utils": "3.5.0",
         "@diia-inhouse/validators": "1.17.0",
         "@typescript-eslint/eslint-plugin": "6.19.0",
-        "@typescript-eslint/parser": "6.19.0",
+        "@typescript-eslint/parser": "6.21.0",
         "compare-versions": "6.1.0",
         "eslint": "8.56.0",
         "lockfile-lint": "4.12.1",
